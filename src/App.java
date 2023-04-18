@@ -9,7 +9,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         // input as a string a comma delimited list of numbers
-        String input = " a,b,c,d,5,3";
+        String input = "1,3,6,7,8,12,13,14,15,21,22,23,24,31";
 
         // Create a new instance of the NumberImplementer
         NumberImplementer summary = new NumberImplementer();
